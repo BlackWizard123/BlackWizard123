@@ -5,6 +5,8 @@
 
 I build AI-driven systems combining **Generative AI, RAG, agent-based reasoning, and full-stack development**, with a focus on scalable backends and intelligent AI behavior.
 
+**My Leetcode Profile** : https://leetcode.com/u/_Hariharan0912/
+
 ---
 
 ## 🧠 Core Skills
