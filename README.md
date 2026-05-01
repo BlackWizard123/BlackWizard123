@@ -1,4 +1,4 @@
-<img width="3464" height="716" alt="Picsart_26-03-26_19-06-26-497" src="https://github.com/user-attachments/assets/e7986ae3-ba29-4025-ab43-99713f25af86" />
+<img width="2772" height="924" alt="Picsart_26-04-26_23-14-58-869" src="https://github.com/user-attachments/assets/0a097c6f-55aa-4ed6-925a-0ddc8ae6fbbd" />
 
 # 👋 Hi, I’m Hariharan C
 
