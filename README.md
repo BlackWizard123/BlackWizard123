@@ -1,4 +1,5 @@
-<img width="2772" height="693" alt="Picsart_26-07-23_23-06-31-511 jpg" src="https://github.com/user-attachments/assets/99ee5005-383c-4b86-b307-3781171d50b9" /><h1 align="center">Hi 👋, I'm Hariharan C</h1>
+<img width="4096" height="1024" alt="Picsart_26-07-28_19-14-34-232" src="https://github.com/user-attachments/assets/979a787e-f219-49b6-b9b1-0147e77dfe26" />
+<h1 align="center">Hi 👋, I'm Hariharan C</h1>
 <h3 align="center">Agentic AI Engineer | Python Backend Developer</h3>
 
 <p align="center">
